@@ -43,6 +43,8 @@ currently  leading IEEE ADU and building smart wearables
 | **Python Community Lead** | ADU Cybersecurity Club | 2023 |
 | **Marketing Coordinator Lead** | ADU Student Council, 2025 to 2026 | 2025 |
 
+**Competition Winner**, Smart Vacuum Robot (CEN425 IoT), Abu Dhabi University
+
 **Outstanding Volunteer Award**, Abu Dhabi University Student Council, 2024
 
 <img src="assets/divider.svg" width="100%" alt="" />
@@ -50,7 +52,7 @@ currently  leading IEEE ADU and building smart wearables
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,sklearn,gcp,git,github,vscode&perline=9&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,arduino,raspberrypi,tensorflow,opencv,sklearn,gcp,linux,git  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,sklearn,gcp,git,github,vscode&perline=9&theme=dark" alt="Tech stack" />perline=12&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
@@ -69,9 +71,21 @@ currently  leading IEEE ADU and building smart wearables
 <table>
   <tr>
     <td width="50%" valign="top">
+      <b>Smart Vacuum Robot</b> <img src="https://img.shields.io/badge/Competition-Winner-FFB000?style=flat-square" alt="Competition Winner" />
+      <p>Autonomous Raspberry Pi 4 robot with gyro-guided 90° turns, ultrasonic wall detection, OpenCV motion detection, a live web dashboard and Telegram security alerts.</p>
+      <code>Raspberry Pi</code> <code>Python</code> <code>OpenCV</code> <code>IoT</code>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/loliamro/guardband-ai-fall-detection"><b>GuardBand: AI Fall Detection</b></a>
       <p>Wrist-worn IoT device that detects falls and flags unusual motion with AI, streaming live to a Python dashboard.</p>
       <code>ESP32</code> <code>MPU6050</code> <code>C++</code> <code>Python</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>AI Cabin Condition Monitor</b>
+      <p>TinyML system on an Arduino Nano 33 BLE Sense: a 6.4 KB CNN classifies the cabin as Normal, Caution or Alert with 99.8% test accuracy.</p>
+      <code>TinyML</code> <code>TensorFlow Lite</code> <code>Arduino</code> <code>CNN</code>
     </td>
     <td width="50%" valign="top">
       <b>Sound Recognition &amp; Visualization</b>
@@ -81,15 +95,23 @@ currently  leading IEEE ADU and building smart wearables
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <b>CPU Scheduling Fairness Simulator</b>
+      <p>C simulator comparing FCFS, SJF, Round Robin, Priority, CFS and Lottery scheduling across 4 workloads, measuring speed and Jain's fairness index.</p>
+      <code>C</code> <code>Operating Systems</code> <code>Make</code>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Predict-The-2025-F1-World-Champion-Using-Python-Pandas-Seaborn"><b>F1 2025 Champion Predictor</b></a>
       <p>Projects every driver's final points from their per-race average and visualizes the predicted championship standings.</p>
       <code>Python</code> <code>Pandas</code> <code>Seaborn</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Linear-Regression"><b>Student Grade Predictor</b></a>
       <p>Linear regression model that predicts final grades from earlier grades, study time, failures and absences.</p>
       <code>scikit-learn</code> <code>NumPy</code> <code>Tkinter</code>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
