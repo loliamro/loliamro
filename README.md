@@ -120,6 +120,14 @@ currently  leading IEEE ADU and building smart wearables
   <img src="https://streak-stats.demolab.com?user=loliamro&background=0D1117&border=30363D&ring=7C5CFF&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Contribution streak" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loliamro/loliamro/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loliamro/loliamro/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/loliamro/loliamro/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
