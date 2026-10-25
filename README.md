@@ -123,5 +123,5 @@ currently  leading IEEE ADU and building smart wearables
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
-  <sub>Open to collaborations, research and internships. The fastest way to reach me is <a href="https://www.linkedin.com/in/amrjallad/">LinkedIn</a>.</sub>
+  <sub>Always happy to connect. The fastest way to reach me is <a href="https://www.linkedin.com/in/amrjallad/">LinkedIn</a>.</sub>
 </p>
