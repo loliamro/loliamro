@@ -1,129 +1,127 @@
-<!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Amr%20Jalad&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Computer%20Engineering%20%E2%80%A2%20AI%20Concentration%20%E2%80%A2%20Abu%20Dhabi%20University&descSize=18&descAlignY=58&animation=fadeIn" alt="Amr Jalad banner" width="100%" />
+  <img src="assets/header.svg" alt="Amr Jalad - Computer Engineering / Artificial Intelligence" width="100%" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/loliamro">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Senior+Computer+Engineering+Student+%F0%9F%8E%93;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Builder+%F0%9F%93%A1;Chair+of+IEEE+ADU+Student+Branch+%E2%9A%A1;GDG+on+Campus+ADU+Senior+Advisor+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+Computer+Engineering+Student+%7C+AI+Concentration;Chair+of+the+IEEE+ADU+Student+Branch;Senior+Advisor+at+GDG+on+Campus+ADU;IoT+%2F+Embedded+Systems+%2F+Signal+Processing" alt="Typing intro" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrjallad/">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" height="36" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/loliamro?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20Projects-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Browse projects" height="36" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amrjallad/"><img src="https://img.shields.io/badge/LinkedIn-amrjallad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Location-Abu%20Dhabi%2C%20UAE-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=loliamro&style=for-the-badge&color=36BCF7&label=Profile+Views" alt="Profile views" />
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
----
+### About
 
-## 👨‍💻 About Me
+I'm a senior Computer Engineering student at **Abu Dhabi University**, concentrating in **Artificial Intelligence**. I like building systems that sit between hardware and intelligence: wearables that sense the world, signal-processing pipelines that make sense of it, and models that predict what comes next.
 
-```python
-class Amr:
-    def __init__(self):
-        self.name      = "Amr Jalad"
-        self.location  = "Abu Dhabi, UAE 🇦🇪"
-        self.education = "B.Sc. Computer Engineering (AI Concentration) @ Abu Dhabi University"
-        self.focus     = ["Artificial Intelligence", "Machine Learning", "IoT", "Signal Processing"]
-        self.building  = "Smart devices that sense, measure and predict"
-        self.leading   = ["IEEE ADU Student Branch", "GDG on Campus ADU", "ADU MUN Design"]
+Outside the lab I spend a lot of time building student tech communities: leading the IEEE ADU Student Branch, advising GDG on Campus, and running Python sessions for the Cybersecurity Club.
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something cool together 🚀")
+```text
+location   Abu Dhabi, UAE
+studying   B.Sc. Computer Engineering (AI), Abu Dhabi University, 2027
+focus      machine learning / IoT / embedded systems / signal processing
+currently  leading IEEE ADU and building smart wearables
 ```
 
-## 🏛️ Leadership & Community
+<img src="assets/divider.svg" width="100%" alt="" />
 
-| Role | Organization |
-|---|---|
-| ⚡ **Chair** | IEEE Abu Dhabi University Student Branch |
-| 🚀 **Senior Advisor** · former Co-Lead & AI Lead | Google Developer Groups on Campus (ADU) |
-| 🐍 **Python Community Lead** | ADU Cybersecurity Club |
-| 🎨 **Under-Secretary-General of Design** | ADU Model United Nations |
-| 📣 **Marketing Coordinator Lead** (2025–2026) | ADU Student Council |
+### Leadership
 
-🏆 **Outstanding Volunteer Award**, Abu Dhabi University Student Council (2024)
+| Role | Organization | Since |
+|:--|:--|:--|
+| **Chair** | IEEE Abu Dhabi University Student Branch | 2026 |
+| **Senior Advisor** (previously Co-Lead and AI Lead) | Google Developer Groups on Campus, ADU | 2024 |
+| **Under-Secretary-General of Design** | ADU Model United Nations | 2025 |
+| **Python Community Lead** | ADU Cybersecurity Club | 2023 |
+| **Marketing Coordinator Lead** | ADU Student Council, 2025 to 2026 | 2025 |
 
-## 🛠️ Tech Stack
+**Outstanding Volunteer Award**, Abu Dhabi University Student Council, 2024
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,sklearn,gcp,git,github,vscode&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,sklearn,gcp,git,github,vscode&perline=9&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=black" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=36BCF7" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=36BCF7" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Seaborn-0d1117?style=flat-square&logo=python&logoColor=36BCF7" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/ESP32-0d1117?style=flat-square&logo=espressif&logoColor=36BCF7" alt="ESP32" />
+  <img src="https://img.shields.io/badge/BigQuery-0d1117?style=flat-square&logo=googlebigquery&logoColor=36BCF7" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Tkinter-0d1117?style=flat-square&logo=python&logoColor=36BCF7" alt="Tkinter" />
 </p>
 
-## 🚀 Featured Projects
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/loliamro/guardband-ai-fall-detection">GuardBand – AI Fall Detection</a></h3>
-      Wrist-worn IoT device that detects falls and flags unusual motion with AI, streaming to a real-time Python dashboard.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <a href="https://github.com/loliamro/guardband-ai-fall-detection"><b>GuardBand: AI Fall Detection</b></a>
+      <p>Wrist-worn IoT device that detects falls and flags unusual motion with AI, streaming live to a Python dashboard.</p>
+      <code>ESP32</code> <code>MPU6050</code> <code>C++</code> <code>Python</code>
     </td>
     <td width="50%" valign="top">
-      <h3>🎧 Sound Recognition & Visualization</h3>
-      MATLAB app that records audio and shows its FFT, power spectrum, PSD, spectrogram and statistics, with a hand-built FIR noise filter.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
-      <img src="https://img.shields.io/badge/DSP-36BCF7?style=flat-square" />
+      <b>Sound Recognition &amp; Visualization</b>
+      <p>MATLAB app that records audio and breaks it down: FFT, power spectrum, PSD, spectrogram and statistics, with a hand-built FIR noise filter.</p>
+      <code>MATLAB</code> <code>DSP</code> <code>FIR filters</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏎️ <a href="https://github.com/loliamro/Predict-The-2025-F1-World-Champion-Using-Python-Pandas-Seaborn">F1 2025 Champion Predictor</a></h3>
-      Projects every driver's final points from their per-race average and charts the predicted championship standings.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+      <a href="https://github.com/loliamro/Predict-The-2025-F1-World-Champion-Using-Python-Pandas-Seaborn"><b>F1 2025 Champion Predictor</b></a>
+      <p>Projects every driver's final points from their per-race average and visualizes the predicted championship standings.</p>
+      <code>Python</code> <code>Pandas</code> <code>Seaborn</code>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/loliamro/Linear-Regression">Student Grade Predictor</a></h3>
-      Linear regression model that predicts final grades from earlier grades, study time, failures and absences, with a Tkinter results table.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tkinter-FFD43B?style=flat-square&logo=python&logoColor=black" />
+      <a href="https://github.com/loliamro/Linear-Regression"><b>Student Grade Predictor</b></a>
+      <p>Linear regression model that predicts final grades from earlier grades, study time, failures and absences.</p>
+      <code>scikit-learn</code> <code>NumPy</code> <code>Tkinter</code>
     </td>
   </tr>
 </table>
 
-## 📜 Certifications
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM ML" />
-  <img src="https://img.shields.io/badge/Google-MENA%20Tech%20Skill%20Initiative-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google MENA" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Responsible%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Responsible AI" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Visual%20Inspection%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Visual Inspection AI" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-BigQuery%20Insights-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-Natural%20Language%20API-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="NL API" />
-  <img src="https://img.shields.io/badge/ZainTECH%20%C3%97%20RIT-Data%20Challenge-7B2CBF?style=for-the-badge" alt="ZainTECH RIT" />
+  <img src="https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-0d1117?style=for-the-badge&logo=ibm&logoColor=36BCF7&labelColor=161b22" alt="IBM Machine Learning with Python" />
+  <img src="https://img.shields.io/badge/Google-MENA%20Tech%20Skill%20Initiative-0d1117?style=for-the-badge&logo=google&logoColor=36BCF7&labelColor=161b22" alt="Google MENA Tech Skill Initiative" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Responsible%20AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=36BCF7&labelColor=161b22" alt="Responsible AI" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Visual%20Inspection%20AI-0d1117?style=for-the-badge&logo=googlecloud&logoColor=36BCF7&labelColor=161b22" alt="Visual Inspection AI" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-BigQuery%20Insights-0d1117?style=for-the-badge&logo=googlebigquery&logoColor=36BCF7&labelColor=161b22" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-Natural%20Language%20API-0d1117?style=for-the-badge&logo=googlecloud&logoColor=36BCF7&labelColor=161b22" alt="Natural Language API" />
+  <img src="https://img.shields.io/badge/ZainTECH%20x%20RIT-Data%20Challenge-0d1117?style=for-the-badge&labelColor=161b22" alt="ZainTECH x RIT Data Challenge" />
 </p>
 
-## 📈 GitHub Stats
+<img src="assets/divider.svg" width="100%" alt="" />
+
+### GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loliamro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliamro&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loliamro&show_icons=true&count_private=true&hide_border=false&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&icon_color=7C5CFF&border_color=30363d&border_radius=10" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loliamro&layout=compact&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=loliamro&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=loliamro&background=0D1117&border=30363D&ring=7C5CFF&fire=36BCF7&currStreakLabel=36BCF7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=30363D" alt="Contribution streak" />
 </p>
 
-<!-- Footer -->
+<img src="assets/divider.svg" width="100%" alt="" />
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
+  <sub>Open to collaborations, research and internships. The fastest way to reach me is <a href="https://www.linkedin.com/in/amrjallad/">LinkedIn</a>.</sub>
 </p>
