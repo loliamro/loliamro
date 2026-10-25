@@ -52,7 +52,7 @@ currently  leading IEEE ADU and building smart wearables
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,arduino,raspberrypi,tensorflow,opencv,sklearn,gcp,linux,git  <img src="https://skillicons.dev/icons?i=py,cpp,matlab,arduino,sklearn,gcp,git,github,vscode&perline=9&theme=dark" alt="Tech stack" />perline=12&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,matlab,arduino,raspberrypi,tensorflow,opencv,sklearn,gcp,linux,git&perline=12&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
