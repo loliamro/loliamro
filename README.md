@@ -196,5 +196,9 @@ currently  publishing research and leading IEEE ADU
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <p align="center">
+  <img src="assets/cat.svg" alt="Animated cat chasing a ball of yarn" width="100%" />
+</p>
+
+<p align="center">
   <sub>Always happy to connect. The fastest way to reach me is <a href="https://www.linkedin.com/in/amrjallad/">LinkedIn</a>.</sub>
 </p>
