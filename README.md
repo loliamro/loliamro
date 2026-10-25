@@ -123,10 +123,6 @@ class Amr:
   <img src="https://streak-stats.demolab.com?user=loliamro&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=loliamro&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" width="100%" />
