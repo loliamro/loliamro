@@ -110,51 +110,59 @@ currently  publishing research and leading IEEE ADU
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/loliamro/ECG-IIR-Filter-Design"><b>ECG IIR Filter Design</b></a>
+      <p>IIR filters designed in MATLAB filterDesigner clean a real ECG (noise -43 dB) and turn each QRS complex into a sharp spike: 24 of 24 heartbeats detected.</p>
+      <code>MATLAB</code> <code>Biomedical DSP</code> <code>IIR filters</code>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/loliamro/AI-Cabin-Condition-Monitor"><b>AI Cabin Condition Monitor</b></a>
       <p>TinyML on an Arduino Nano 33 BLE Sense: a 6.4 KB CNN classifies the cabin as Normal, Caution or Alert with 99.8% test accuracy.</p>
       <code>TinyML</code> <code>TensorFlow Lite</code> <code>Arduino</code> <code>CNN</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Bluetooth-Sumo-Robot"><b>Bluetooth Sumo Robot</b></a>
       <p>PS4-controlled sumo robot: ESP32 Bluetooth with Arduino tank steering over UART and a 3D-printed wedge. 15 m range, 130 ms latency.</p>
       <code>ESP32</code> <code>Arduino</code> <code>Bluetooth</code> <code>Fusion 360</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Sound-Recognition-and-Visualization"><b>Sound Recognition &amp; Visualization</b></a>
       <p>MATLAB app that records audio and breaks it down: FFT, power spectrum, PSD, spectrogram and statistics, with a hand-built FIR noise filter.</p>
       <code>MATLAB</code> <code>DSP</code> <code>FIR filters</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/6V-Lead-Acid-Battery-Charger"><b>6 V Lead-Acid Battery Charger</b></a>
       <p>Discrete series-pass regulator with feedback and current limiting, taken from LTspice to a custom EasyEDA PCB. 0.73% voltage regulation.</p>
       <code>LTspice</code> <code>EasyEDA</code> <code>Analog</code> <code>PCB</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/CPU-Scheduling-Fairness-Simulator"><b>CPU Scheduling Fairness Simulator</b></a>
       <p>C simulator comparing FCFS, SJF, Round Robin, Priority, CFS and Lottery scheduling across 4 workloads, measuring speed and Jain's fairness.</p>
       <code>C</code> <code>Operating Systems</code> <code>Make</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/RC-High-Pass-Filter"><b>RC High-Pass Filter</b></a>
       <p>First-order RC filter with a ~15.9 kHz cutoff: Multisim simulation, Bode plot and breadboard measurements.</p>
       <code>Multisim</code> <code>Circuits</code> <code>Oscilloscope</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Predict-The-2025-F1-World-Champion-Using-Python-Pandas-Seaborn"><b>F1 2025 Champion Predictor</b></a>
       <p>Projects every driver's final points from their per-race average and visualizes the predicted standings.</p>
       <code>Python</code> <code>Pandas</code> <code>Seaborn</code>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/loliamro/Linear-Regression"><b>Student Grade Predictor</b></a>
       <p>Linear regression model that predicts final grades from earlier grades, study time, failures and absences.</p>
       <code>scikit-learn</code> <code>NumPy</code> <code>Tkinter</code>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
